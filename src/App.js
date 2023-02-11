@@ -45,7 +45,6 @@ function App() {
         amount={expenses[3].amount}
         date={expenses[3].date}
       ></ExpenseItem>
-      
     </div>
   );
 }
